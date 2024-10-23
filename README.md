@@ -20,10 +20,10 @@
 Следуйте этим шагам, чтобы установить проект:
 
 1. **Перейдите в репозиторий проекта**
-(https://github.com/silly-person-on-the-cheese-planet/Todo)
+(https://github.com/silly-person-on-the-cheese-planet/Todo-lab2)
 
 2. **Перейдите в ветку проекта**
-(https://github.com/silly-person-on-the-cheese-planet/Todo/tree/lab2)
+(https://github.com/silly-person-on-the-cheese-planet/Todo-lab2/tree/lab2)
 
 3. **Откройте проект в Visual Studio**
 Откройте файл .sln в Visual Studio
